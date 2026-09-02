@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280">
+  <rect width="1000" height="280" rx="28" fill="#fffdf7"/>
+  <g font-family="Comic Sans MS, Comic Sans, Chalkboard SE, cursive" fill="#24292f" text-anchor="middle">
+    <text x="500" y="78" font-size="42" font-weight="700">Fields of Interest</text>
+    <text x="500" y="142" font-size="28">Computer Vision  ·  Edge AI  ·  Robotics</text>
+    <text x="500" y="194" font-size="28">VLA  ·  Embedded Software &amp; Hardware</text>
+  </g>
+  <g fill="none" stroke="#24292f" stroke-width="3" stroke-linecap="round">
+    <path d="M270 218 C365 232, 635 232, 730 218"/>
+    <path d="M286 224 C375 238, 625 238, 714 224" opacity="0.35"/>
+  </g>
+  <g fill="#24292f">
+    <circle cx="225" cy="221" r="3"/>
+    <circle cx="775" cy="221" r="3"/>
+  </g>
+</svg>
