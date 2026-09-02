@@ -1,3 +1,6 @@
 <div align="center">
-  <img src="./assets/interests.svg" alt="Fields of Interest" width="900" />
+
+### Computer Vision · Edge AI · Robotics
+### VLA · Embedded Software & Hardware
+
 </div>
