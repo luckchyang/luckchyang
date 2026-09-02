@@ -1,16 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280">
-  <rect width="1000" height="280" rx="28" fill="#fffdf7"/>
-  <g font-family="Comic Sans MS, Comic Sans, Chalkboard SE, cursive" fill="#24292f" text-anchor="middle">
-    <text x="500" y="78" font-size="42" font-weight="700">Fields of Interest</text>
-    <text x="500" y="142" font-size="28">Computer Vision  ·  Edge AI  ·  Robotics</text>
-    <text x="500" y="194" font-size="28">VLA  ·  Embedded Software &amp; Hardware</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="240" viewBox="0 0 980 240" role="img" aria-label="Fields of interest">
+  <rect x="10" y="10" width="960" height="220" rx="28" fill="#fffdf7" stroke="#24292f" stroke-width="4"/>
+
+  <g fill="none" stroke="#24292f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M74 64l7 14 15 2-11 11 3 15-14-7-14 7 3-15-11-11 15-2z"/>
+    <path d="M894 164c14-18 33-18 47 0-14 18-33 18-47 0z"/>
+    <circle cx="918" cy="164" r="7"/>
+    <path d="M889 78c10-11 23-11 33 0M906 63v29"/>
   </g>
-  <g fill="none" stroke="#24292f" stroke-width="3" stroke-linecap="round">
-    <path d="M270 218 C365 232, 635 232, 730 218"/>
-    <path d="M286 224 C375 238, 625 238, 714 224" opacity="0.35"/>
-  </g>
-  <g fill="#24292f">
-    <circle cx="225" cy="221" r="3"/>
-    <circle cx="775" cy="221" r="3"/>
-  </g>
+
+  <text x="490" y="78" text-anchor="middle"
+        font-family="Comic Sans MS, Comic Sans, Chalkboard SE, cursive"
+        font-size="38" font-weight="700" fill="#24292f">
+    Fields I’m Into
+  </text>
+
+  <text x="490" y="137" text-anchor="middle"
+        font-family="Comic Sans MS, Comic Sans, Chalkboard SE, cursive"
+        font-size="27" font-weight="700" fill="#6f42c1">
+    Computer Vision · Edge AI · Robotics · VLA
+  </text>
+
+  <text x="490" y="184" text-anchor="middle"
+        font-family="Comic Sans MS, Comic Sans, Chalkboard SE, cursive"
+        font-size="27" font-weight="700" fill="#0969da">
+    Embedded Software &amp; Hardware
+  </text>
 </svg>
