@@ -1,28 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="980" height="240" viewBox="0 0 980 240" role="img" aria-label="Fields of interest">
-  <rect x="10" y="10" width="960" height="220" rx="28" fill="#fffdf7" stroke="#24292f" stroke-width="4"/>
-
-  <g fill="none" stroke="#24292f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M74 64l7 14 15 2-11 11 3 15-14-7-14 7 3-15-11-11 15-2z"/>
-    <path d="M894 164c14-18 33-18 47 0-14 18-33 18-47 0z"/>
-    <circle cx="918" cy="164" r="7"/>
-    <path d="M889 78c10-11 23-11 33 0M906 63v29"/>
-  </g>
-
-  <text x="490" y="78" text-anchor="middle"
-        font-family="Comic Sans MS, Comic Sans, Chalkboard SE, cursive"
-        font-size="38" font-weight="700" fill="#24292f">
-    Fields I’m Into
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="170" viewBox="0 0 1100 170" role="img" aria-label="What I explore">
+  <text x="550" y="62" text-anchor="middle"
+        font-family="Segoe Print, Bradley Hand, Comic Sans MS, cursive"
+        font-size="34" font-weight="600" fill="#24292f">
+    What I explore
   </text>
 
-  <text x="490" y="137" text-anchor="middle"
-        font-family="Comic Sans MS, Comic Sans, Chalkboard SE, cursive"
-        font-size="27" font-weight="700" fill="#6f42c1">
-    Computer Vision · Edge AI · Robotics · VLA
-  </text>
-
-  <text x="490" y="184" text-anchor="middle"
-        font-family="Comic Sans MS, Comic Sans, Chalkboard SE, cursive"
-        font-size="27" font-weight="700" fill="#0969da">
-    Embedded Software &amp; Hardware
+  <text x="550" y="118" text-anchor="middle"
+        font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="25" font-weight="600" fill="#24292f">
+    Computer Vision · Edge AI · VLA · Robotics · Embedded Systems
   </text>
 </svg>
