@@ -1,7 +1,7 @@
 <div align="center">
 
-## Fields of Interest
+## What I explore
 
-### Computer Vision · Edge AI · VLA · Robotics & Embedded Systems
+### Computer Vision · Edge AI · VLA · Robotics · Embedded Systems
 
 </div>
