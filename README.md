@@ -1,11 +1,7 @@
-# Hi, I'm Cheng Yang 👋
+<div align="center">
 
-I’m learning and exploring:
+# ✦ Fields of Interest ✦
 
-- 👁️ Computer Vision
-- ⚡ Edge AI
-- 🤖 Robotics
-- 🦾 Vision-Language-Action (VLA)
-- 🔧 Embedded Software & Hardware
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&center=true&vCenter=true&width=760&lines=Computer+Vision+%C2%B7+Edge+AI;Robotics+%C2%B7+VLA;Embedded+Software+%26+Hardware" alt="Fields of Interest" />
 
-Currently building my way from **vision → edge intelligence → robotics → embodied AI**.
+</div>
