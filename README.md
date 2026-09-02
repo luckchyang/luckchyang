@@ -1,7 +1,3 @@
 <div align="center">
-
-### What I explore
-
-**Computer Vision · Edge AI · VLA · Robotics · Embedded Systems**
-
+  <img src="./assets/interests.svg" alt="What I explore" width="900" />
 </div>
