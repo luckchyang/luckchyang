@@ -1,5 +1,11 @@
 # Hi, I'm Cheng Yang 👋
 
-**M.S. Student @ Chiba University**  
-**Computer Vision · Edge AI · Robot Learning**
+I’m learning and exploring:
 
+- 👁️ Computer Vision
+- ⚡ Edge AI
+- 🤖 Robotics
+- 🦾 Vision-Language-Action (VLA)
+- 🔧 Embedded Software & Hardware
+
+Currently building my way from **vision → edge intelligence → robotics → embodied AI**.
