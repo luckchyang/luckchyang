@@ -1,6 +1,7 @@
 <div align="center">
 
-### Computer Vision · Edge AI · Robotics
-### VLA · Embedded Software & Hardware
+## Fields of Interest
+
+### Computer Vision · Edge AI · VLA · Robotics & Embedded Systems
 
 </div>
